@@ -1,6 +1,6 @@
 # alarm_poc
 
-A new Flutter project.
+A simple Flutter App that will trigger a alarm function after every 60 seconds based on user interaction and user can only stop the alarm as per the need and also the alarm will be running even in foreground & background state.
 
 ## Getting Started
 
